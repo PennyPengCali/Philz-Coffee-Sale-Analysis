@@ -1,0 +1,12 @@
+order_id,order_date,order_day,customer_id,employee_id
+2000,12/12/2021,Sunday,18,21
+2001,12/12/2021,Sunday,16,23
+2002,12/13/2021,Monday,12,21
+2003,12/15/2021,Wednesday,15,22
+2004,12/16/2021,Thursday,11,22
+2005,12/14/2021,Tuesday,10,24
+2006,12/15/2021,Wednesday,19,23
+2007,12/17/2021,Friday,18,24
+2008,12/19/2021,Sunday,17,23
+2009,12/18/2021,Saturday,16,21
+2010,12/12/2021,Sunday,20,21

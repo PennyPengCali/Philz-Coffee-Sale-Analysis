@@ -1,0 +1,16 @@
+food_id,food_name,food_type,food_price,food_description
+100,New Manhattan,Coffee,4,"Cinnamon,citrus,cherry"
+101,Columbia Darker Roast,Coffee,3.6,"Decaf with smoke, maple, herbs"
+102,Sumatra Medium Roast,Coffee,3.6,"Decaf with earth, cocoa, grapefruit"
+103,Ethiopia Ligher Roase,Coffee,3.6,"Decaf with caramel, tropical fruit, chocolate"
+104,Ecstatic,Coffee,3.6,"Iced with nuts, toffee"
+105,Mint Mojito,Coffee,4.6,"Iced with Fresh mint, sweet, creamy"
+106,Mocha Tesora,Coffee,4.6,"Iced with dark chocolate, caramel"
+107,Yerba mate,Coffee,3.6,Earthy
+108,Philz Iced Tea,Tea,4.6,"Fresh mint, crisp, floral"
+109,SoooGood,Coffee,4,"Grapefuruit, raisin"
+110,Croissant,Pastry,4.5,Butter croissant
+111,Vanilla Scone,Pastry,5.5,Scone with vanilla cream
+112,Blueberry Muffin,Pastry,4.25,Muffin made with fresh blueberries
+113,Coffee Cake,Pastry,4,Baked cake with signature philz's beans
+114,Veggie Quiche,Pastry,4.95,"Qinche with egg, cheese, spinach"

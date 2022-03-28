@@ -1,0 +1,12 @@
+payment_id,payment_method,payment_total,payment_tip,order_id
+300,Credit,7.6,1,2000
+301,Credit,8,1,2001
+302,Credit,27.4,3,2002
+303,Paypal,3.6,0,2003
+304,Paypal,12,2,2004
+305,ApplePay,21.5,2.4,2005
+306,ApplePay,13.8,1.5,2006
+307,Credit,5.5,0,2007
+308,ApplePay,7.2,1.5,2008
+309,Credit,18.05,2,2009
+310,Credit,35.6,4.5,2010
